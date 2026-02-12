@@ -1,0 +1,18 @@
+CLOUD_FLARE PAGES ENVIRONMENT VARIABLES
+=======================================
+
+Jab aap Cloudflare Pages par "Connect to Git" karenge, 
+tab "Environment Variables" section mein yeh values copy-paste karein:
+
+1. KEY: NEXT_PUBLIC_INSFORGE_URL
+   VALUE: https://4vvamm4e.ap-southeast.insforge.app
+
+2. KEY: NEXT_PUBLIC_INSFORGE_ANON_KEY
+   VALUE: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3OC0xMjM0LTU2NzgtOTBhYi1jZGVmMTIzNDU2NzgiLCJlbWFpbCI6ImFub25AaW5zZm9yZ2UuY29tIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzA4MTkzODZ9.W8W93sNHPbPm3xMgtYjGdOfSLHdMb7O15gGoCdZb2EY
+
+=======================================
+INSTRUCTIONS:
+1. `DEPLOY_NOW.bat` run karein (Code GitHub par jayega).
+2. Cloudflare par Project banayein.
+3. Yeh keys daalein.
+4. "Deploy" dabayein.
